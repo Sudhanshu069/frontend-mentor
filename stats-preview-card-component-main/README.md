@@ -66,4 +66,4 @@ css
 ## Acknowledgments
 
 - Youtube [Kevin Powell](https://www.youtube.com/kepowob)
-[W3schools](https://www.w3schools.com/)
+- [W3schools](https://www.w3schools.com/)
