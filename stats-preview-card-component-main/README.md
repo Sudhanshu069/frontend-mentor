@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[](https://github.com/Sudhanshu069/frontend-mentor/tree/main/stats-preview-card-component-main)
+[Solution URL:](https://github.com/Sudhanshu069/frontend-mentor/tree/main/stats-preview-card-component-main)
 
 ## My process
 
@@ -66,4 +66,4 @@ css
 ## Acknowledgments
 
 - Youtube [Kevin Powell](https://www.youtube.com/kepowob)
-- W3schools [](https://www.w3schools.com/)
+[W3schools](https://www.w3schools.com/)
